@@ -1,0 +1,8 @@
+# Python Basic Projects
+- Şifre Kırma Uygulaması 1 (Sadece Harfler İcin)
+- Şifre Kırma Uygulaması 2 (Harfler ve Sayılar)
+- Şifre Kırma Uygulaması 3 (Harfler, Sayılar ve Özel Karakterler)
+- Dört İşlem Hesap Makinesi
+- Sekiz İşlem Hesap Makinesi
+- Final Notu Degerlendirme Sistemi
+- Asal Sayı mı
