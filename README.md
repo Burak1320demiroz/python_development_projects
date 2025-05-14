@@ -15,7 +15,6 @@
 - Basic Project
 - Mid Level Project
 - Advanced Projects
-    - EcoIrrigate
 - Games
 
 -------------------------------------
