@@ -1,4 +1,3 @@
-# Python Basic Projects
 - Şifre Kırma Uygulaması 1 (Sadece Harfler İcin)
 - Şifre Kırma Uygulaması 2 (Harfler ve Sayılar)
 - Şifre Kırma Uygulaması 3 (Harfler, Sayılar ve Özel Karakterler)
