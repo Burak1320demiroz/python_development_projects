@@ -19,7 +19,7 @@ def hesap_makinesi():
         if sayi2 != 0:
             print("Sonuç:", sayi1 / sayi2)
         else:
-            print("Hata: Sifira bölme yapılamaz.")
+            print("Hata: Sifira bölme yapilamaz.")
     else:
         print("Geçersiz işlem seçtiniz.")
 

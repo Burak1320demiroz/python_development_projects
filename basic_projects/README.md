@@ -5,3 +5,8 @@
 - Sekiz İşlem Hesap Makinesi
 - Final Notu Degerlendirme Sistemi
 - Asal Sayı mı
+- Yazılan 3 Basamklı Sayı Okuma
+- Yazılan x Basamklı Sayı Okuma
+- Vücut Kitle İndeksi (VKİ) Hesaplama Programı
+- Daire Alan ve Çevre Hesaplama Programı
+- En Büyük Sayıyı Bulma Programı

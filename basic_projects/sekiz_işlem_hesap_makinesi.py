@@ -39,14 +39,14 @@ def hesap_makinesi():
         if a >= 0:
             print("Sonuç:", math.sqrt(a))
         else:
-            print("Hata: Negatif sayinin karekökü alınamaz.")
+            print("Hata: Negatif sayinin karekökü alinamaz.")
 
     elif islem == "!":
         a = int(input("Sayi (pozitif tam sayi): "))
         if a >= 0:
             print("Sonuç:", math.factorial(a))
         else:
-            print("Hata: Negatif sayinin faktoriyeli alınamaz.")
+            print("Hata: Negatif sayinin faktoriyeli alinamaz.")
     
     else:
         print("Geçersiz işlem seçtiniz.")

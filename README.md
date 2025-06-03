@@ -8,6 +8,11 @@
     - Sekiz İşlem Hesap Makinesi
     - Final Notu Degerlendirme Sistemi
     - Asal Sayı mı
+    - Yazılan 3 Basamklı Sayı Okuma
+    - Yazılan x Basamklı Sayı Okuma
+    - Vücut Kitle İndeksi (VKİ) Hesaplama Programı
+    - Daire Alan ve Çevre Hesaplama Programı
+    - En Büyük Sayıyı Bulma Programı
 - Mid Level Project
     - Doğru Uzunluğu Hesaplayıcı
     - Position Publisher (Konum Yayınlayıcı)
@@ -22,5 +27,7 @@
     - TKM (Tas, Kagıt, Makas)
     - Sayı Tahmin (Bilgisayar Rasgale Bir Sayı Seciyo Tahmin Etmeye Calışıyorsun)
     - İlk Kim Bulacak
+- Notes
+    - 
 
 -------------------------------------
