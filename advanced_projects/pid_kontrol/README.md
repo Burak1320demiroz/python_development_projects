@@ -1,4 +1,4 @@
-# Turtlebot PID Kontrolü
+# PID Kontrolü
 
 Bu proje, ROS altyapısı ile çalışan bir otonom araçta PID kontrolü kullanarak hedef noktalara yönelmeyi sağlar.
 
