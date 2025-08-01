@@ -8,3 +8,9 @@
     - Bağlantılı Listeler (Linked Lists)
     - Ağaçlar (Trees)
     - Graf Yapıları (Graphs)
+
+
+Boolean
+String
+float
+complex

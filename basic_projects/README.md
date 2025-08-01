@@ -10,3 +10,4 @@
 - Vücut Kitle İndeksi (VKİ) Hesaplama Programı
 - Daire Alan ve Çevre Hesaplama Programı
 - En Büyük Sayıyı Bulma Programı
+- Daire Cevresi ve Yarıcapı
