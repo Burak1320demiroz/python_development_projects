@@ -29,6 +29,11 @@
 
 - Notes
     - Basic commands in Python (Python'daki temel komutlar)
+    - Numpy
+    - Pandas
+    - Matplotlib
+    - Flask
+    - Kivy
     - Data Structures (Veri yapıları)
         - Listeler (Lists)
         - Demetler (Tuples)
