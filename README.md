@@ -26,3 +26,5 @@
     - Yılan Oyunu (Snake Game)
 
 ---
+Kütüphane Yönetim Sistemi,   ATM Simülasyonu,  Hava Durumu Gösterici , Kelime Bulmaca Oyunu , BMI (Vücut Kitle İndeksi) Hesaplayıcı
+Not Defteri Uygulaması
